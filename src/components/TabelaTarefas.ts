@@ -10,7 +10,7 @@ export default Vue.component("tabela-tarefas", {
              <thead>
                 <th>Título da Tarefa</th>
                 <th>Descrição</th>
-                <th>Prazo</th>
+                <th>Prazo Final</th>
                 <th> Check</th>
                 <th> Radio</th>
                 <th>Ações</th>
